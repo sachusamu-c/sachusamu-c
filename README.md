@@ -1,4 +1,4 @@
-# Hi We are Sachu And Samu&nbsp;<a href="Hey"><img src="https://raw.githubusercontent.com/TOXIC-DEVIL/TOXIC-DEVIL/TOXIC-DEVIL-OFFICIAL/media/Hi.gif" width="48px"></a>
+# Hi We are MR DR LOVE&nbsp;<a href="Hey"><img src="https://raw.githubusercontent.com/TOXIC-DEVIL/TOXIC-DEVIL/TOXIC-DEVIL-OFFICIAL/media/Hi.gif" width="48px"></a>
 
 ## <!-- Typing SVG -->
 <p align="center">
@@ -17,7 +17,7 @@
 <img src="Ajmalprofile.jpg" alt="GIF" width="128" height="128"/>
 </p>
  <p align="center">
-<a href="#"><img title="Sachu-Samu" src="https://img.shields.io/badge/Sachu Samu-red?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
+<a href="#"><img title="MR DR LOVE" src="https://img.shields.io/badge/Sachu Samu-red?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
   <p align="center">
 <a href="https://github.com/Ajmal-Achu"><img title="Author" src="https://img.shields.io/badge/Author-Sachu-Samu/Nandhutty_v2?color=blue&style=for-the-badge&logo=whatsapp"></a>
